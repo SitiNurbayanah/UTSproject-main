@@ -9,7 +9,6 @@
     android:padding="16dp"
     tools:context=".ConfirmationActivity">
 
-    <!-- Judul Halaman -->
     <TextView
         android:id="@+id/tvTitle"
         android:layout_width="wrap_content"
@@ -20,7 +19,6 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginBottom="16dp"/>
 
-    <!-- Confirmation Nama Makanan -->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -28,7 +26,6 @@
         android:textSize="18sp"
         android:layout_marginBottom="8dp"/>
 
-    <!-- Confirmation Jumlah Porsi -->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -36,7 +33,6 @@
         android:textSize="18sp"
         android:layout_marginBottom="8dp"/>
 
-    <!-- Confirmation Nama pengorder -->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -44,7 +40,6 @@
         android:textSize="18sp"
         android:layout_marginBottom="8dp"/>
 
-    <!-- Input Catatan Tambahan -->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -52,7 +47,6 @@
         android:textSize="18sp"
         android:layout_marginBottom="16dp"/>
 
-    <!-- Input Catatan Tambahan -->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
